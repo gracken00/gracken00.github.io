@@ -72961,15 +72961,15 @@ return new A.LW(new A.bf(s,t.sW),A.b([new A.wc(s),new A.Hy(s),new A.Ev(s),new A.
 A.LW.prototype={
 E(a){var s,r,q,p,o=this,n=null,m=A.bj(a,B.et,t.w).w,l=A.bH("Reporte de Bienestar de J\xf3venes - 2025",n,A.kT(n,n,B.i,n,n,n,n,n,n,n,n,32.5,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),k=A.U(255,29,102,148),j=A.fQ(n,new A.Ea(A.lJ(A.bH("Reporte de Bienestar de J\xf3venes 2025",n,A.kT(n,n,A.U(255,29,102,148),n,n,n,n,n,n,n,n,35.5,n,n,B.io,n,n,!0,n,n,n,n,n,n,n,n),B.fY),n,n),n),B.T,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.abC(o),n,n,n,n,!1,B.aL),i=A.cy(n,n,n,!0,A.mc(B.f6,n),n,new A.abD(o),n,new A.J_("Objetivo y Metodolog\xeda",n),n,n),h=A.cy(n,n,n,!0,A.mc(B.Cp,n),n,new A.abE(o),n,A.bH("Ficha Tecnica",n,n,n),n,n),g=A.bH("Panorama general",n,n,n),f=A.mc(B.Cn,n),e=t.E
 g=A.VO(A.b([A.cy(n,n,n,!0,n,n,new A.abP(o),n,A.bH("Informaci\xf3n general",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abX(o),n,A.bH("Desempleo",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abY(o),n,A.bH("Defunciones",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abZ(o),n,A.bH("Siniestros de tr\xe1nsito",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.ac_(o),n,A.bH("Fallecidos en el Tr\xe1nsito",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.ac0(o),n,A.bH("Lesionados de Tr\xe1nsito",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.ac1(o),n,A.bH("Delitos",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.ac2(o),n,A.bH("Robo a personas",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abF(o),n,A.bH("Violencia Psicol\xf3gica contra la mujer",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abG(o),n,A.bH("Incivilidades",n,n,n),n,n)],e),new A.aR(60,0,0,0),f,new A.abH(o),g)
-f=A.bH("Encuesta de Percepci\xf3n \nde Bienestar & Seguridad",n,n,n)
+f=A.bH("Encuesta de Percepci\xf3n de\nBienestar & Seguridad",n,n,n)
 s=A.mc(B.f6,n)
 r=A.bH("Dimensi\xf3n  Sociodemogr\xe1fico",n,n,n)
 q=A.mc(B.f6,n)
 r=A.VO(A.b([A.cy(n,n,n,!0,n,n,new A.abI(o),n,A.bH("Subdimensi\xf3n Identificaci\xf3n",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abJ(o),n,A.bH("Subdimensi\xf3n Ocupaci\xf3n",n,n,n),n,n)],e),new A.aR(60,0,0,0),q,new A.abK(o),r)
 q=A.bH("Dimensi\xf3 Material",n,n,n)
 p=A.mc(B.f6,n)
-e=A.ajD(!0,new A.Im(new A.aR(10,0,10,0),A.tr(A.b([j,i,h,g,A.VO(A.b([r,A.VO(A.b([A.cy(n,n,n,!0,n,n,new A.abL(o),n,A.bH("Subdimensi\xf3n Ciudad",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abM(o),n,A.bH("Subdimensi\xf3n Problem\xe1tica",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abN(o),n,A.bH("Subdimensi\xf3n Acceso a bienes",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abO(o),n,A.bH("Subdimensi\xf3n Movilidad",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abQ(o),n,A.bH("Subdimensi\xf3n Espacio P\xfablico",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abR(o),n,A.bH("Subdimensi\xf3n Confianza",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abS(o),n,A.bH("Subdimensi\xf3n Relacionamiento",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abT(o),n,A.bH("Subdimensi\xf3n Seguridad",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abU(o),n,A.bH("Subdimensi\xf3n Bienestar y Salud mental",n,n,n),n,n)],e),new A.aR(60,0,0,0),p,new A.abV(o),q)],e),new A.aR(60,0,0,0),s,new A.abW(o),f)],e),B.ba,B.bf,B.iZ),n),B.bq,!0)
-return A.hp(n,new A.wQ(new A.t2(l,k,new A.cl(n,n,n,n,n,B.i,n,n,n),!0,new A.NT(n,n,1/0,56),n),o.e[o.f],new A.E6(400,e,n),B.o,o.d),B.y,n,n,new A.dw(n,new A.ox(new A.t5("assets/images/titular.png"),B.yB,B.ks,B.m4,0.7),n,n,n,n,B.aV),n,n,n,n,n,n,m.a.a)}}
+e=A.ajD(!0,new A.Im(new A.aR(10,0,10,0),A.tr(A.b([j,i,h,g,A.VO(A.b([r,A.VO(A.b([A.cy(n,n,n,!0,n,n,new A.abL(o),n,A.bH("Subdimensi\xf3n Ciudad",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abM(o),n,A.bH("Subdimensi\xf3n Problem\xe1tica",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abN(o),n,A.bH("Subdimensi\xf3n Acceso a bienes",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abO(o),n,A.bH("Subdimensi\xf3n Movilidad",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abQ(o),n,A.bH("Subdimensi\xf3n Espacio P\xfablico",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abR(o),n,A.bH("Subdimensi\xf3n Confianza",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abS(o),n,A.bH("Subdimensi\xf3n Relacionamiento",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abT(o),n,A.bH("Subdimensi\xf3n Seguridad",n,n,n),n,n),A.cy(n,n,n,!0,n,n,new A.abU(o),n,A.bH("Subdimensi\xf3n Bienestar y\nSalud mental",n,n,n),n,n)],e),new A.aR(60,0,0,0),p,new A.abV(o),q)],e),new A.aR(60,0,0,0),s,new A.abW(o),f)],e),B.ba,B.bf,B.iZ),n),B.bq,!0)
+return A.hp(n,new A.wQ(new A.t2(l,k,new A.cl(n,n,n,n,n,B.i,n,n,n),!0,new A.NT(n,n,1/0,56),n),o.e[o.f],new A.E6(450,e,n),B.o,o.d),B.y,n,n,new A.dw(n,new A.ox(new A.t5("assets/images/titular.png"),B.yB,B.ks,B.m4,0.7),n,n,n,n,B.aV),n,n,n,n,n,n,m.a.a)}}
 A.abC.prototype={
 $0(){var s=this.a
 s.Z(new A.abu(s))},
@@ -73176,53 +73176,53 @@ return A.bH(this.c,s,A.kT(s,s,A.U(255,29,102,148),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0
 A.Gx.prototype={
 E(a){return A.ch("assets/pdf/panorama_general/panorama_general.pdf",A.ci(B.o))}}
 A.Eu.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Fallecidos de Transito.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Fallecidos de Transito.pdf",A.ci(B.o))}}
 A.F9.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Informaci\xf3n general.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Informaci\xf3n general.pdf",A.ci(B.o))}}
 A.DL.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Defunciones.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Defunciones.pdf",A.ci(B.o))}}
 A.DM.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Delitos.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Delitos.pdf",A.ci(B.o))}}
 A.DN.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Desempleo.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Desempleo.pdf",A.ci(B.o))}}
 A.F7.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Incivilidades.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Incivilidades.pdf",A.ci(B.o))}}
 A.Ft.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Lesionados de Tr\xe1nsito.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Lesionados de Tr\xe1nsito.pdf",A.ci(B.o))}}
 A.HC.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Robo a personas.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Robo a personas.pdf",A.ci(B.o))}}
 A.In.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Siniestros de transito.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Siniestros de transito.pdf",A.ci(B.o))}}
 A.Jp.prototype={
-E(a){return A.ch("assets/pdf/Panorama General/Violencia Psicol\xf3gica contra la mujer.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/panorama_general/Violencia Psicol\xf3gica contra la mujer.pdf",A.ci(B.o))}}
 A.Ee.prototype={
 E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Encuesta.pdf",A.ci(B.o))}}
 A.DU.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Sociodemogr\xe1fico/Dimensi\xf3n Sociodemogr\xe1fico.pdf.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Sociodemogr\xe1fico/Dimensi\xf3n Sociodemogr\xe1fico.pdf",A.ci(B.o))}}
 A.IG.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Sociodemogr\xe1fico/Subdimensi\xf3n Identificaci\xf3n.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Sociodemogr\xe1fico/Subdimensi\xf3n Identificaci\xf3n.pdf",A.ci(B.o))}}
 A.IH.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Sociodemogr\xe1fico/Ocupaci\xf3n Subdimensi\xf3n.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Sociodemogr\xe1fico/Ocupaci\xf3n Subdimensi\xf3n.pdf",A.ci(B.o))}}
 A.DT.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Material.pdf.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Material.pdf",A.ci(B.o))}}
 A.Df.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Ciudad.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Ciudad.pdf",A.ci(B.o))}}
 A.H0.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Problem\xe1tica.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Problem\xe1tica.pdf",A.ci(B.o))}}
 A.Cs.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Acceso a bienes.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Acceso a bienes.pdf",A.ci(B.o))}}
 A.FQ.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Movilidad.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Movilidad.pdf",A.ci(B.o))}}
 A.Er.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Espacio P\xfablico.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Espacio P\xfablico.pdf",A.ci(B.o))}}
 A.Dp.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Confianza.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Confianza.pdf",A.ci(B.o))}}
 A.Hc.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Relacionamiento.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Relacionamiento.pdf",A.ci(B.o))}}
 A.I4.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Seguridad.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Seguridad.pdf",A.ci(B.o))}}
 A.CU.prototype={
-E(a){return A.ch("assets/pdf/Encuesta de Percepci\xf3n de Bienestar & Seguridad 2025/Dimensi\xf3n Material/Dimensi\xf3n Bienestar y Salud mental.pdf",A.ci(B.o))}}
+E(a){return A.ch("assets/pdf/Encuesta_de_Percepci\xf3n_de_Bienestar_Seguridad_2025/Dimensi\xf3n Material/Dimensi\xf3n Bienestar y Salud mental.pdf",A.ci(B.o))}}
 A.Ev.prototype={
 E(a){return A.ch("assets/pdf/ficha_tecnica.pdf",A.ci(B.o))}}
 A.wc.prototype={
@@ -73233,7 +73233,7 @@ A.NS.prototype={
 au(){this.d.Po("MR7H6Y19KwA")
 this.aQ()},
 E(a){var s=null
-return A.lJ(A.hp(B.a1,new A.yg(this.d,1.7777777777777777,s),B.y,s,s,s,s,s,s,s,s,s,A.bj(a,s,t.w).w.a.a*0.7),s,s)}}
+return A.lJ(A.hp(B.a1,new A.yg(this.d,1.6,s),B.y,s,s,s,s,s,s,s,s,s,A.bj(a,s,t.w).w.a.a*0.7),s,s)}}
 A.Hy.prototype={
 E(a){return A.ch("assets/pdf/objetivos_metodologia.pdf",A.ci(B.o))}}
 A.CT.prototype={
