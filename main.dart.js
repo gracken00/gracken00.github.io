@@ -14417,12 +14417,11 @@ for(o=s;o<=r;++o)for(l=o*k,n=q;n<=p;++n)m.push(b.cX(new A.i(l,n*h)))
 return m},
 p2:function p2(a,b){this.a=a
 this.b=b},
-oA:function oA(a,b,c,d,e){var _=this
+oA:function oA(a,b,c,d){var _=this
 _.a=a
 _.d=b
 _.e=c
-_.r=d
-_.y=e},
+_.r=d},
 L6:function L6(a,b){var _=this
 _.a=a
 _.b=b
@@ -49080,11 +49079,11 @@ s=!1
 if(t.u5.b(b))if(b.gfN().i(0,r.a)){b.gvg()
 if(b.gnU()===r.d)if(b.geE().i(0,r.e)){b.gvd()
 if(b.gwO()===r.r){b.gwf()
-if(b.ge9()===1)if(b.gd6()===r.y){s=b.ghp()===B.c_
+if(b.ge9()===1)if(b.gd6()===1){s=b.ghp()===B.c_
 if(s){b.gnZ()
 b.go0()}}}}}return s},
 gp(a){var s=this
-return A.L(s.a,null,s.d,s.e,null,s.r,!1,1,s.y,B.c_,!1,!1,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+return A.L(s.a,null,s.d,s.e,null,s.r,!1,1,1,B.c_,!1,!1,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){var s=this,r=A.b([s.a.k(0)],t.s),q=!1
 q=s.d!==B.yD
 if(q)r.push(s.d.k(0))
@@ -49092,7 +49091,7 @@ r.push(s.e.k(0))
 q=s.r
 if(q!==B.dA)r.push(q.k(0))
 r.push("scale "+B.h.X(1,1))
-r.push("opacity "+B.c.X(s.y,1))
+r.push("opacity "+B.h.X(1,1))
 r.push(B.c_.k(0))
 return"DecorationImage("+B.b.bI(r,", ")+")"},
 gfN(){return this.a},
@@ -49103,7 +49102,7 @@ gvd(){return null},
 gwO(){return this.r},
 gwf(){return!1},
 ge9(){return 1},
-gd6(){return this.y},
+gd6(){return 1},
 ghp(){return B.c_},
 gnZ(){return!1},
 go0(){return!1}}
@@ -49122,7 +49121,7 @@ k=c!=null
 if(k){a.cW()
 a.hK(c)}s=o.d
 r=s.a
-A.aFd(m.e,f,a,n,n,s.c,B.c_,m.d,!1,r,!1,!1,m.y*e,b,m.r,s.b)
+A.aFd(m.e,f,a,n,n,s.c,B.c_,m.d,!1,r,!1,!1,e,b,m.r,s.b)
 if(k)a.cL()},
 m7(a,b,c,d){return this.rl(a,b,c,d,1,B.bV)},
 a0b(a,b){var s,r,q=this
@@ -73026,7 +73025,7 @@ A.uz.prototype={
 ab(){var s=null
 return new A.LY(new A.bf(s,t.sW),A.b([new A.wd(s),new A.Hz(s),new A.Ew(s),new A.Gy(s),new A.Fa(s),new A.DO(s),new A.DM(s),new A.Ip(s),new A.Ev(s),new A.Fu(s),new A.DN(s),new A.HD(s),new A.Jr(s),new A.F8(s),new A.Ef(s),new A.DV(s),new A.II(s),new A.IJ(s),new A.DU(s),new A.Dg(s),new A.H1(s),new A.Ct(s),new A.FR(s),new A.Es(s),new A.Dq(s),new A.Hd(s),new A.I6(s),new A.CV(s)],t.E))}}
 A.LY.prototype={
-E(a){var s,r,q,p,o=this,n=null,m=A.bj(a,B.eu,t.w).w,l=A.bC("Reporte de Bienestar de J\xf3venes - 2025",n,A.jf(n,n,B.i,n,n,n,n,n,n,n,n,32.5,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),k=A.R(255,29,102,148),j=t.E,i=A.fS(n,new A.Eb(A.azg(A.b([A.jU(A.fc(n,A.bC("Reporte de Bienestar de J\xf3venes 2025",n,A.jf(n,n,A.R(255,29,102,148),n,n,n,n,n,n,n,n,35.5,n,n,B.iq,n,n,!0,n,n,n,n,n,n,n,n),B.fZ),B.x,n,n,n,n,n,n,n,n,n,n),n,n),A.oq(A.b([A.aj8(n,A.ka(B.Cm,n),new A.abG(a),n,n)],j),B.aF,B.aM,B.dV)],j),B.aF,B.dV),n),B.T,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.abH(o,a),n,n,n,n,!1,B.aN),h=A.cz(n,n,n,!0,A.ka(B.f7,n),n,new A.abI(o,a),n,new A.J1("Objetivo y Metodolog\xeda",n),n,n),g=A.cz(n,n,n,!0,A.ka(B.Cr,n),n,new A.abT(o,a),n,A.bC("Ficha Tecnica",n,n,n),n,n),f=A.bC("Panorama general",n,n,n),e=A.ka(B.Cp,n)
+E(a){var s,r,q,p,o=this,n=null,m=A.bj(a,B.eu,t.w).w,l=A.bC("Reporte de Bienestar de J\xf3venes - 2025",n,A.jf(n,n,B.i,n,n,n,n,n,n,n,n,32.5,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),k=A.R(255,29,102,148),j=t.E,i=A.fS(n,new A.Eb(A.azg(A.b([A.jU(A.fc(n,A.bC("Reporte de Bienestar \nde J\xf3venes 2025",n,A.jf(n,n,A.R(255,29,102,148),n,n,n,n,n,n,n,n,35.5,n,n,B.iq,n,n,!0,n,n,n,n,n,n,n,n),B.fZ),B.x,n,n,n,n,n,n,n,n,n,n),n,n),A.oq(A.b([A.aj8(n,A.ka(B.Cm,n),new A.abG(a),n,n)],j),B.aF,B.aM,B.dV)],j),B.aF,B.dV),n),B.T,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.abH(o,a),n,n,n,n,!1,B.aN),h=A.cz(n,n,n,!0,A.ka(B.f7,n),n,new A.abI(o,a),n,new A.J1("Objetivo y Metodolog\xeda",n),n,n),g=A.cz(n,n,n,!0,A.ka(B.Cr,n),n,new A.abT(o,a),n,A.bC("Ficha Tecnica",n,n,n),n,n),f=A.bC("Panorama general",n,n,n),e=A.ka(B.Cp,n)
 f=A.VQ(A.b([A.cz(n,n,n,!0,n,n,new A.ac1(o,a),n,A.bC("Informaci\xf3n general",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.ac2(o,a),n,A.bC("Desempleo",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.ac3(o,a),n,A.bC("Defunciones",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.ac4(o,a),n,A.bC("Siniestros de tr\xe1nsito",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.ac5(o,a),n,A.bC("Fallecidos en el Tr\xe1nsito",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.ac6(o,a),n,A.bC("Lesionados de Tr\xe1nsito",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.ac7(o,a),n,A.bC("Delitos",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abJ(o,a),n,A.bC("Robo a personas",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abK(o,a),n,A.bC("Violencia Psicol\xf3gica contra la mujer",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abL(o,a),n,A.bC("Incivilidades",n,n,n),n,n)],j),new A.aR(60,0,0,0),e,new A.abM(o),f)
 e=A.bC("Encuesta de Percepci\xf3n de\nBienestar & Seguridad",n,n,n)
 s=A.ka(B.f7,n)
@@ -73038,7 +73037,7 @@ p=A.ka(B.f7,n)
 j=A.ajH(!0,new A.Io(new A.aR(10,0,10,0),A.oq(A.b([i,h,g,f,A.VQ(A.b([r,A.VQ(A.b([A.cz(n,n,n,!0,n,n,new A.abQ(o),n,A.bC("Subdimensi\xf3n Ciudad",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abR(o,a),n,A.bC("Subdimensi\xf3n Problem\xe1tica",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abS(o,a),n,A.bC("Subdimensi\xf3n Acceso a bienes",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abU(o,a),n,A.bC("Subdimensi\xf3n Movilidad",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abV(o,a),n,A.bC("Subdimensi\xf3n Espacio P\xfablico",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abW(o,a),n,A.bC("Subdimensi\xf3n Confianza",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abX(o,a),n,A.bC("Subdimensi\xf3n Relacionamiento",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abY(o,a),n,A.bC("Subdimensi\xf3n Seguridad",n,n,n),n,n),A.cz(n,n,n,!0,n,n,new A.abZ(o,a),n,A.bC("Subdimensi\xf3n Bienestar y\nSalud mental",n,n,n),n,n)],j),new A.aR(60,0,0,0),p,new A.ac_(o),q)],j),new A.aR(60,0,0,0),s,new A.ac0(o),e)],j),B.aF,B.aM,B.dV),n),B.bq,!0)
 e=o.e[o.f]
 s=A.R(255,98,131,152)
-return A.fc(n,new A.wR(new A.t4(l,k,new A.cl(n,n,n,n,n,B.i,n,n,n),!0,new A.NV(n,n,1/0,56),n),e,new A.E7(450,j,n),B.o,A.fc(n,A.jU(A.bC("Prueba",n,n,n),n,n),B.x,s,n,n,n,30,n,n,n,n,n),o.d),B.x,n,n,new A.dx(n,new A.oA(new A.t7("assets/images/titular.png"),B.yC,B.ks,B.m4,0.7),n,n,n,n,B.aX),n,n,n,n,n,n,m.a.a)}}
+return A.fc(n,new A.wR(new A.t4(l,k,new A.cl(n,n,n,n,n,B.i,n,n,n),!0,new A.NV(n,n,1/0,56),n),e,new A.E7(450,j,n),B.o,A.fc(n,A.jU(A.bC("Prueba",n,n,n),n,n),B.x,s,n,n,n,30,n,n,n,n,n),o.d),B.x,n,n,new A.dx(n,new A.oA(new A.t7("assets/images/titular.png"),B.yC,B.ks,B.m4),n,n,n,n,B.aX),n,n,n,n,n,n,m.a.a)}}
 A.abH.prototype={
 $0(){var s=this.a
 s.Z(new A.aby(s,this.b))},
